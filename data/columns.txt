@@ -1,0 +1,27 @@
+'Domain',
+'Name',
+'contact_email'
+'mobile_number'
+'position', 
+'linkedin_profile',
+'visit_count',
+'location', 
+'department',
+'Seniority', 
+'Industry',
+'Founded Year',
+'revenue_range',
+'contact_status', 
+'employee_count_range',
+'industry',
+'company_name',
+'company_linkedin'
+'last_visit_date'
+'lead_id',
+'lead_url'
+'lead_score',
+'time_spent_on_site'
+
+
+
+
