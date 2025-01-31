@@ -1,0 +1,1 @@
+activate conda : conda activate ~/conda_envs/outbound_env
