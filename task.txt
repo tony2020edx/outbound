@@ -1,0 +1,6 @@
+1. get freshd data file
+2. complete the merge code
+3. add column named days since last visit to the merged data
+4. save the merged data to a new file
+5. convert the new file into a sqlite database
+6. write a code to append new data to the database
